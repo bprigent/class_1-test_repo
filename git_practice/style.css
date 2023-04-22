@@ -8,3 +8,8 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 800;
 }
+
+.h1_w {
+    border: 2px solid black;
+    padding: 8px;
+}
