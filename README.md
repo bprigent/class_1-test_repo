@@ -1,3 +1,17 @@
 # test_repo
-This is additional info for the read me document
-Now I am going to commit on visual code
+
+* This is me learning markdown
+* Another item on this list
+
+1. this is the first item
+2. this is the second item
+
+* this is a sentence *
+
+** this is another sentence **
+
+*** this is another sentence ***
+
+> this is a quote
+> another quote
+
